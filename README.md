@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora Front-End em formação e estudante de Análise e Desenvolvimento de Sistemas. Atualmente estudo <strong>HTML, CSS e JavaScript</strong> e estou sempre em busca de novos desafios. Acredito que a tecnologia pode transformar o mundo, e eu quero fazer parte disso.
+  Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora Front-End em formação e estudante de Análise e Desenvolvimento de Sistemas. Acredito que a tecnologia pode transformar o mundo, e eu quero fazer parte disso.
 </p>
 
 ### 🚀 Tecnologias que utilizo:
