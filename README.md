@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora Front-End em formação e estudante de Análise e Desenvolvimento de Sistemas.</p>
-  <p>Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para me aprimorar. Fora do mundo da programação, adoro jogos, séries e esportes, que me inspiram a ser mais criativa e pensar fora da caixa. Acredito que o aprendizado constante e a troca de experiências são fundamentais para o crescimento, tanto pessoal quanto profissional! Acredito que a tecnologia transforma o mundo, e eu quero fazer parte disso.
+  <p>Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para me aprimorar. Fora do mundo da programação, adoro jogos, séries e esportes, que me inspiram a ser mais criativa e pensar fora da caixa. Eu penso que o aprendizado constante e a troca de experiências são fundamentais para o crescimento, tanto pessoal quanto profissional! Acredito que a tecnologia transforma o mundo, e eu quero fazer parte disso.
 </p>
 
 ### 🚀 Tecnologias que utilizo:
