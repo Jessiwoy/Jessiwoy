@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora Front-End em formação e estudante de Análise e Desenvolvimento de Sistemas.</p>
-  <p>Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para me aprimorar. Fora do mundo da programação, adoro jogos, séries e esportes, que me inspiram a ser mais criativa e pensar fora da caixa. Eu penso que o aprendizado constante e a troca de experiências são fundamentais para o crescimento, tanto pessoal quanto profissional! Acredito que a tecnologia transforma o mundo, e eu quero fazer parte disso.
+  Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora de software e graduanda de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+  <p>Tenho experiência prática em desenvolvimento de aplicações web e mobile, utilizando <strong>React.js, React Native</strong> e <strong>TypeScript</strong>, aplicando boas práticas de código e conceitos como <strong>Atomic Design, SOLID e DDD</strong>. No backend, já trabalhei com deploy de aplicações utilizando <strong>Docker</strong> e <strong>AWS EC2</strong>, integrando APIs e seguindo boas práticas de infraestrutura. <p>Fora da programação, gosto de jogos, séries e esportes, que me ajudam a manter a mente ativa e a explorar novas formas de pensar e aprender.
 </p>
 
 ### 🚀 Tecnologias que utilizo:
