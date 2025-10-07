@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Sou <strong>Jéssica Woytuski</strong>, desenvolvedora de software e graduanda de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
-  <p>Tenho experiência prática em desenvolvimento de aplicações web e mobile, utilizando no Front-End<strong>React.js, React Native</strong> e <strong>TypeScript</strong>, aplicando boas práticas de código e conceitos como <strong>Atomic Design, SOLID e DDD</strong>. No backend, já trabalhei com deploy de aplicações utilizando <strong>Docker</strong> e <strong>AWS EC2</strong>, integrando APIs e seguindo boas práticas de infraestrutura. <p>Fora da programação, gosto de séries, filmes e esportes, que me ajudam a manter a mente ativa e a explorar novas formas de pensar e aprender.
+  <p>Tenho experiência prática em desenvolvimento de aplicações web e mobile, utilizando no Front-End <strong>React.js, React Native</strong> e <strong>TypeScript</strong>, aplicando boas práticas de código e conceitos como <strong>Atomic Design, SOLID e DDD</strong>. No backend, já trabalhei com deploy de aplicações utilizando <strong>Docker</strong> e <strong>AWS EC2</strong>, integrando APIs e seguindo boas práticas de infraestrutura. <p>Fora da programação, gosto de séries, filmes e esportes, que me ajudam a manter a mente ativa e a explorar novas formas de pensar e aprender.
 </p>
 
 ### 🚀 Tecnologias que utilizo:
