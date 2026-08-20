@@ -30,18 +30,13 @@
 
 <p>
   Sou <strong>Desenvolvedora Full Stack</strong> com experiência no desenvolvimento de aplicações
-  web e mobile, atuando de ponta a ponta com foco em qualidade de código, escalabilidade
-  e entrega contínua.
+  web e mobile, atuando com frontend, backend, cloud e automação de entrega.
 </p>
 
 <p>
-  No frontend, trabalho principalmente com <strong>React, React Native, Next.js e TypeScript</strong>.
-  No backend, atuo com <strong>Node.js, NestJS, Express e APIs REST</strong>.
-</p>
-
-<p>
-  Também possuo experiência com <strong>Docker, AWS, CI/CD, testes automatizados</strong>
-  e práticas de arquitetura como <strong>DDD, SOLID, Clean Code, Atomic Design e Design System</strong>.
+  Trabalho principalmente com <strong>React, React Native, Next.js, TypeScript, Node.js e NestJS</strong>,
+  aplicando práticas como <strong>DDD, SOLID, Clean Code, Atomic Design, Design System,
+  testes automatizados e CI/CD</strong>.
 </p>
 
 <hr/>
@@ -51,6 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=8B5CF6" alt="React"/>
   <img src="https://img.shields.io/badge/React%20Native-242424?style=flat-square&logo=react&logoColor=8B5CF6" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Angular-242424?style=flat-square&logo=angular&logoColor=8B5CF6" alt="Angular"/>
   <img src="https://img.shields.io/badge/Next.js-242424?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=8B5CF6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-242424?style=flat-square&logo=javascript&logoColor=8B5CF6" alt="JavaScript"/>
@@ -149,11 +145,11 @@
   </p>
 
   <p>
-    <a href="mailto:jessica.w.dev@gmail.com">Email</a>
-    &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/jessica-woytuski">LinkedIn</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/Jessiwoy">GitHub</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:jessica.w.dev@gmail.com">Email</a>
   </p>
 
 </div>
