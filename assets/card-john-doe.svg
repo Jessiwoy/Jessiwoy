@@ -1,0 +1,25 @@
+<svg width="360" height="220" viewBox="0 0 360 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg { fill: #F6F8FA; stroke: #D0D7DE; }
+    .title { fill: #8B5CF6; }
+    .body { fill: #57606A; }
+    .divider { stroke: #D0D7DE; }
+    .tech { fill: #7C3AED; }
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #0D1117; stroke: #30363D; }
+      .body { fill: #8B949E; }
+      .divider { stroke: #30363D; }
+      .tech { fill: #A78BFA; }
+    }
+  </style>
+  <rect class="card-bg" x="0.75" y="0.75" width="358.5" height="218.5" rx="12" stroke-width="1.5"/>
+  <rect x="24" y="27" width="4" height="28" rx="2" fill="#8B5CF6"/>
+  <text class="title" x="42" y="48" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">John Doe Registration</text>
+  <text class="body" x="24" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="14">Aplicação full stack para cadastro</text>
+  <text class="body" x="24" y="109" font-family="Segoe UI, Arial, sans-serif" font-size="14">único de clientes, com validação,</text>
+  <text class="body" x="24" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="14">persistência e ambiente Docker.</text>
+  <line class="divider" x1="24" y1="154" x2="336" y2="154"/>
+  <text class="tech" x="24" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">React · TypeScript · NestJS</text>
+  <text class="tech" x="24" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Prisma · PostgreSQL</text>
+  <text x="322" y="199" fill="#8B5CF6" font-family="Segoe UI, Arial, sans-serif" font-size="16">↗</text>
+</svg>
