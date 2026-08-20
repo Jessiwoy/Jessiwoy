@@ -85,12 +85,12 @@
 <div align="center">
 
   <p>
-    <a href="https://github.com/Jessiwoy/john-doe-registration"><img width="48%" src="./assets/card-john-doe.svg" alt="John Doe Registration"/></a>
-    <a href="https://github.com/Jessiwoy/property-sales-react-website"><img width="48%" src="./assets/card-property-sales.svg" alt="Property Sales"/></a>
+    <a href="https://github.com/Jessiwoy/john-doe-registration"><img width="45%" src="./assets/card-john-doe.svg" alt="John Doe Registration"/></a>
+    <a href="https://github.com/Jessiwoy/property-sales-react-website"><img width="45%" src="./assets/card-property-sales.svg" alt="Property Sales"/></a>
   </p>
 
   <p>
-    <a href="https://github.com/Jessiwoy/RN-mar25-Taskly"><img width="48%" src="./assets/card-taskly.svg" alt="Taskly"/></a>
+    <a href="https://github.com/Jessiwoy/RN-mar25-Taskly"><img width="45%" src="./assets/card-taskly.svg" alt="Taskly"/></a>
   </p>
 
   <br/><br/>
@@ -103,17 +103,18 @@
 
 <hr/>
 
-<h2>Foco atual</h2>
+<h2>Aprendizado contínuo</h2>
 
 <p>
-  Participando do <a href="https://sctec.scti.sc.gov.br/"><strong>SCTEC</strong></a>,
-  programa do Estado de Santa Catarina, por meio da SCTI e em parceria com o SENAI/SC,
-  com trilhas gratuitas e certificadas em tecnologia e Inteligência Artificial.
+  Além da atuação com desenvolvimento web e mobile, sigo aprofundando conhecimentos em
+  frontend, arquitetura de aplicações e boas práticas de engenharia de software.
 </p>
 
 <p>
-  No segundo ciclo, faço parte da turma <strong>Desenvolvedor Front-End Angular</strong>,
-  na trilha <strong>Carreira Tech</strong>.
+  Atualmente participo do <a href="https://sctec.scti.sc.gov.br/"><strong>SCTEC</strong></a>,
+  programa do Estado de Santa Catarina, por meio da SCTI e em parceria com o SENAI/SC,
+  na turma <strong>Desenvolvedor Front-End Angular</strong>, segundo ciclo da trilha
+  <strong>Carreira Tech</strong>.
 </p>
 
 <hr/>
