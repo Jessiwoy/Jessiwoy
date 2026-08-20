@@ -115,7 +115,7 @@
 
 <hr/>
 
-<h2>AI-assisted Development</h2>
+<h2>Desenvolvimento assistido por IA</h2>
 
 <p>
   Utilizo ferramentas de IA como apoio ao desenvolvimento, análise de código,
