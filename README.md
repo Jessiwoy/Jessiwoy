@@ -3,23 +3,21 @@
   <h1>Jessica Woytuski</h1>
 
   <p>
-    <strong>Desenvolvedora Full Stack</strong><br/>
-    React · React Native · TypeScript · Node.js · NestJS · AWS
+    <strong>Analista de Sistemas | Atendimento e Suporte ao Cliente</strong><br/>
   </p>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web+%26+Mobile;Frontend+%7C+Backend+%7C+Cloud;Clean+Code+%7C+DDD+%7C+SOLID;Software+claro%2C+confi%C3%A1vel+e+escal%C3%A1vel"
-    alt="Typing SVG"
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Sistemas+e+Plataformas+Digitais;APIs+e+Integra%C3%A7%C3%B5es;Desenvolvimento+Web+e+Mobile"
+  alt="Typing SVG"
   />
-
   <br/>
 
   <p>
-    <a href="https://www.linkedin.com/in/jessica-woytuski"><img src="https://img.shields.io/badge/LinkedIn-242424?style=flat-square&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/woytuski-jessica"><img src="https://img.shields.io/badge/LinkedIn-242424?style=flat-square&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn"/></a>
     &nbsp;
     <a href="https://github.com/Jessiwoy"><img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
     &nbsp;
-    <a href="mailto:jessica.w.dev@gmail.com"><img src="https://img.shields.io/badge/Email-242424?style=flat-square&logo=gmail&logoColor=8B5CF6" alt="Email"/></a>
+    <a href="mailto:woytuski2@gmail.com"><img src="https://img.shields.io/badge/Email-242424?style=flat-square&logo=gmail&logoColor=8B5CF6" alt="Email"/></a>
   </p>
 
 </div>
@@ -29,19 +27,32 @@
 <h2>Sobre mim</h2>
 
 <p>
-  Sou <strong>Desenvolvedora Full Stack</strong> com experiência no desenvolvimento de aplicações
-  web e mobile, atuando com frontend, backend, cloud e automação de entrega.
+  Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com experiência
+  em <strong>atendimento e suporte ao cliente, análise de sistemas e desenvolvimento
+  de aplicações web e mobile</strong>.
 </p>
 
 <p>
-  Trabalho principalmente com <strong>React, React Native, Next.js, TypeScript, Node.js e NestJS</strong>,
-  aplicando práticas como <strong>DDD, SOLID, Clean Code, Atomic Design, Design System,
-  testes automatizados e CI/CD</strong>.
+  Minha trajetória reúne experiências em <strong>relacionamento com clientes,
+  acompanhamento de solicitações, investigação de problemas e supervisão de
+  atendimento</strong>, além da atuação em equipes de desenvolvimento de software.
+</p>
+
+<p>
+  Essa combinação me permite compreender tanto as necessidades dos usuários
+  quanto o funcionamento dos sistemas, contribuindo para a identificação de
+  problemas, análise de soluções e comunicação entre clientes e equipes técnicas.
+</p>
+
+<p>
+  Possuo conhecimentos em <strong>React, React Native, Next.js, TypeScript,
+  Node.js e NestJS</strong>, além de experiência com <strong>APIs, integrações,
+  testes e boas práticas de desenvolvimento</strong>.
 </p>
 
 <hr/>
 
-<h2>Stack principal</h2>
+<h2>Tecnologias e Ferramentas</h2>
 
 <p>
   <img src="https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=8B5CF6" alt="React"/>
@@ -99,23 +110,29 @@
 
 <hr/>
 
-<h2>Aprendizado contínuo</h2>
+<h2>Competências e Atuação</h2>
 
 <p>
-  Além da atuação com desenvolvimento web e mobile, sigo aprofundando conhecimentos em
-  frontend, arquitetura de aplicações e boas práticas de engenharia de software.
+  <strong>Atendimento e suporte:</strong> orientação a clientes, esclarecimento
+  de dúvidas, registro e acompanhamento de solicitações, abertura de tickets
+  e encaminhamento de demandas.
 </p>
 
 <p>
-  Atualmente participo do <a href="https://sctec.scti.sc.gov.br/"><strong>SCTEC</strong></a>,
-  programa do Estado de Santa Catarina, por meio da SCTI e em parceria com o SENAI/SC,
-  na turma <strong>Desenvolvedor Front-End Angular</strong>, segundo ciclo da trilha
-  <strong>Carreira Tech</strong>.
+  <strong>Análise e resolução de problemas:</strong> investigação de dificuldades
+  relatadas por usuários, diagnóstico inicial de problemas, análise de regras
+  de negócio e identificação de possíveis falhas em sistemas e integrações.
+</p>
+
+<p>
+  <strong>Organização e colaboração:</strong> priorização de demandas,
+  comunicação com equipes, acompanhamento de indicadores e identificação
+  de oportunidades de melhoria nos processos.
 </p>
 
 <hr/>
 
-<h2>Desenvolvimento assistido por IA</h2>
+<h2>Ferramentas de IA e Produtividade</h2>
 
 <p>
   Utilizo ferramentas de IA como apoio ao desenvolvimento, análise de código,
@@ -141,7 +158,7 @@
 <div align="center">
 
   <p>
-    <strong>Aberta a conexões, colaboração e oportunidades em desenvolvimento Full Stack.</strong>
+    <strong>Aberta a conexões, colaboração e oportunidades em atendimento e suporte ao cliente, suporte a sistemas e tecnologia.</strong>
   </p>
 
   <p>
@@ -149,7 +166,7 @@
     &nbsp;·&nbsp;
     <a href="https://github.com/Jessiwoy">GitHub</a>
     &nbsp;·&nbsp;
-    <a href="mailto:jessica.w.dev@gmail.com">Email</a>
+    <a href="mailto:woytuski2@gmail.com">Email</a>
   </p>
 
 </div>
